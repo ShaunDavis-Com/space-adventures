@@ -57,8 +57,8 @@ Space Adventures/
 
 ## Contributing
 
-This is a personal learning project. Feel free to fork and experiment with the code!
+This is a personal learning project created for educational purposes.
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE). 
+This is a private project for learning and development purposes. 
