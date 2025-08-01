@@ -1,0 +1,78 @@
+{
+  "fileName": "sample-document.pdf",
+  "timestamp": "2025-07-31T12:24:19.106Z",
+  "analysis": {
+    "readingTime": 1,
+    "readabilityScore": 25,
+    "sentiment": {
+      "score": 0,
+      "label": "neutral"
+    },
+    "language": "English",
+    "keyPhrases": [
+      "analysis",
+      "text",
+      "document",
+      "system",
+      "detection",
+      "users",
+      "their",
+      "content"
+    ],
+    "complexity": {
+      "avgWordsPerSentence": 17,
+      "avgSyllablesPerWord": 1.9,
+      "difficultWords": 27
+    },
+    "summary": "This is a comprehensive document analysis system that provides advanced text analytics and insights.  The system can process various document formats including PDFs, Word documents, and images with OCR capabilities.  It offers detailed readability analysis, sentiment detection, and key phrase extraction to help users understand their content better...",
+    "statistics": {
+      "words": 102,
+      "sentences": 6,
+      "paragraphs": 1,
+      "characters": 722
+    },
+    "wordFrequency": [
+      {
+        "word": "analysis",
+        "count": 3
+      },
+      {
+        "word": "text",
+        "count": 3
+      },
+      {
+        "word": "document",
+        "count": 2
+      },
+      {
+        "word": "system",
+        "count": 2
+      },
+      {
+        "word": "detection",
+        "count": 2
+      },
+      {
+        "word": "users",
+        "count": 2
+      },
+      {
+        "word": "their",
+        "count": 2
+      },
+      {
+        "word": "content",
+        "count": 2
+      },
+      {
+        "word": "comprehensive",
+        "count": 1
+      },
+      {
+        "word": "provides",
+        "count": 1
+      }
+    ]
+  },
+  "extractedText": "This is a comprehensive document analysis system that provides advanced text analytics and insights. The system can process various document formats including PDFs, Word documents, and images with OCR capabilities. It offers detailed readability analysis, sentiment detection, and key phrase extraction to help users understand their content better. The platform uses modern machine learning algorithms to provide accurate language detection and complexity metrics. Users can export their analysis results and search within the extracted text for specific terms or phrases. This makes it an ideal solution for content creators, researchers, and business professionals who need to analyze large volumes of text efficiently."
+}
