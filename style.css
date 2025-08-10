@@ -132,7 +132,7 @@ body {
     height: 80px;
     position: relative;
     transform-style: preserve-3d;
-    cursor: pointer;
+    cursor: not-allowed;
     user-select: none;
     perspective: 200px;
 }
@@ -231,7 +231,8 @@ body {
     opacity: 1;
 }
 
-.clickable-dice {
+
+.dice.human-turn {
     cursor: pointer;
 }
 
